@@ -1,0 +1,4 @@
+// Window orders, launched in Game constructor
+
+window_close Closed
+window_close KeyPressed Escape
